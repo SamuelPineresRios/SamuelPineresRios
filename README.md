@@ -1,8 +1,11 @@
-<div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Samuel%20Piñeres&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20)
+<p align="center">
+  <img src="assets/banner-pixel.png" alt="Samuel Piñeres - Full Stack Developer" width="100%" />
+</p>
 
-</div>
+
+
+
 
 <div align="center">
 
