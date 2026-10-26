@@ -78,20 +78,6 @@
 
 </div>
 
----
 
-<div align="center">
 
-### 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=9CEAF7&fire=9CEAF7&currStreakLabel=9CEAF7)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer)
-
-</div>
