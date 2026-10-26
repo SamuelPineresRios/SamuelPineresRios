@@ -18,22 +18,22 @@
   <tr>
     <td align="center" width="50%">
 
-### 🧠 Backend
+### Backend
 `Django` · `Spring Boot` · `Node.js + Express`
 
-### 🎨 Frontend
+### Frontend
 `React` · `JavaScript` · `Tailwind CSS`
 
-### 🗄️ Databases
+### Databases
 `PostgreSQL` · `MongoDB`
 
     </td>
     <td align="center" width="50%">
 
-### ⚙️ Tooling
+### Tooling
 `Git` · `Docker` · `n8n`
 
-### 📱 Mobile
+### Mobile
 `Flutter`
 
 ### 🌍 Location
@@ -66,17 +66,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9CEAF7&icon_color=9CEAF7&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9CEAF7&text_color=ffffff)
-
-</div>
 
 
 
