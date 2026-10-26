@@ -12,38 +12,6 @@
 
 </div>
 
----
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-
-### Backend
-`Django` · `Spring Boot` · `Node.js + Express`
-
-### Frontend
-`React` · `JavaScript` · `Tailwind CSS`
-
-### Databases
-`PostgreSQL` · `MongoDB`
-
-    </td>
-    <td align="center" width="50%">
-
-### Tooling
-`Git` · `Docker` · `n8n`
-
-### Mobile
-`Flutter`
-
-### 🌍 Location
-`Medellín · Colombia`
-
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
 
